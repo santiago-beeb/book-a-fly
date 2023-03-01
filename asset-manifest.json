@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/book-a-fly/static/css/main.dc34660c.css",
+    "main.js": "/book-a-fly/static/js/main.3daf58b9.js",
+    "static/media/background-travel-2.jpg": "/book-a-fly/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/book-a-fly/index.html",
+    "main.dc34660c.css.map": "/book-a-fly/static/css/main.dc34660c.css.map",
+    "main.3daf58b9.js.map": "/book-a-fly/static/js/main.3daf58b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc34660c.css",
+    "static/js/main.3daf58b9.js"
+  ]
+}
